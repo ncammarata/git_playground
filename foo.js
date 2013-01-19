@@ -1,1 +1,2 @@
-console.log('sup')
+var say = 'sup';
+console.log(say);
