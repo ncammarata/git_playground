@@ -1,3 +1,3 @@
-var say = 'sup dog';
+var say = 'sup dog, yo';
 alert(say);
-console.log(say);
+console.debug(say);
